@@ -24,7 +24,6 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 
-
 ## 1.To Write a C program that illustrates files copying 
 
 ```
